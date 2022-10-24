@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [featurize.cn](https://featurize.cn)
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Web Full Stack Development/Computer Vision
-- 🤔 I’m looking for help with [MineTorch](https://github.com/louis-she/minetorch)
+- 🤔 I’m looking for help with [PyTorch Tao](https://github.com/louis-she/pytorch-tao)
 - 📫 How to reach me: chenglu.she@gmail.com
 
 ### 🏁 Kaggle
