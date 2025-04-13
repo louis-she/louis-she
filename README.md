@@ -12,7 +12,7 @@ For casually writing .
 
 Stuck with me through all those Kaggle competitions, scored 1 gold and 7 silvers. Miss the good old days when even a single 1080 Ti could handle Kaggle just fine.
 
-**[Soundfont Forge](https://soundfont-forge.com/)**
+**[SoundFont Forge](https://soundfont-forge.com/)**
 
 Parse SoundFont file to a bunch of MP3 files, completely done in the browser.
 
