@@ -19,3 +19,8 @@ Parse SoundFont file to a bunch of MP3 files, completely done in the browser.
 **[gradio-log](https://github.com/louis-she/gradio-log)**
 
 Dynamically display any log files on the fly in Gradio.
+
+**[Dora Piano](https://dorapiano.com/)**
+
+Effect Piano software, more like a MIDI visualizor, to keep me practising the piano ..
+
